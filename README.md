@@ -16,7 +16,7 @@ This setup adds to files: *Gruntfile.js* and *package.json*. These files are req
 ###package.json###
 ```javascript
 {
-  "name": "jacober",
+  "name": "example-project",
   "version": "0.1.0",
   "devDependencies": {
     "grunt": "~0.4.5",
