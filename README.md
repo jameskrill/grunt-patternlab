@@ -1,7 +1,7 @@
 grunt-patternlab
 ================
 
-This is a basic setup for [Patternlab](url:www.patternlab.io) with [Grunt](www.gruntjs.com).
+This is a basic setup for [Patternlab](www.patternlab.io) with [Grunt](www.gruntjs.com).
 
 ##Description##
 
